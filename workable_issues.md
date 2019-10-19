@@ -13,6 +13,8 @@ https://github.com/search?q=first-timers-only+hacktoberfest
 
 https://github.com/my-first-pr/open-sauce-2019
 
+http://www.issuehub.io/?label%5B%5D=first-timers-only&language=
+
 
 ---
 
