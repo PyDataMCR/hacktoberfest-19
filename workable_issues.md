@@ -5,12 +5,9 @@
 
 https://www.firsttimersonly.com/ 
 
-https://www.firsttimersonly.com/
-
 https://up-for-grabs.net/#/
 
-https://github.com/MunGell/awesome-for-beginner
-
+https://github.com/MunGell/awesome-for-beginners
 
 ---
 
