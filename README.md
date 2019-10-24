@@ -19,3 +19,6 @@ Thank you to our sponsors:
 
 
 Check out the [of beginners friendly issues to work on](/workable_issues.md) or contribute to the Hacktoberfest episode of the PyData MCR podcast!
+
+
+You can read a blog post about the event [here](https://rainsworth.github.io/Hacktoberfest2019/) and find the slides to Tania's  talk Contributing to Open Source 101 [here](https://speakerdeck.com/trallard/contributing-to-open-source-101).
